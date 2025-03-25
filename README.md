@@ -4,8 +4,6 @@
 
 ## Temat pracy  
 **Analiza skupień państw i narodów w kontekście gospodarczo-politycznym**  
-lub  
-**Przewidywanie opóźnień lotów na podstawie danych historycznych i pogodowych**  
 
 ## Autorzy  
 - **Maria Nowicka** (151851)  
