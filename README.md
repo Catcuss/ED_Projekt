@@ -8,3 +8,9 @@
 ## Autorzy  
 - **Maria Nowicka** (151851)  
 - **Zuzanna Tabisz** (151561)  
+
+## Przykładowy zbiór danych
+
+
+
+## Pobranie wytrenowanego modelu
